@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kzj1SwHbkcL00OVl9rfOUOY+WaZavO7RX3Os9HJMjCpWN3f4KpPr11tvp7bHHVbxdsTAu4fxZ7Ys8uCmZ/jaJQ==",
+  "dgSpecHash": "H+VErB/HR8N/1nCEFTPQhWk2Z2G0V4zTwoUdexiGXR7g4T1NrYYL6RlkaFEyDHxIhUrm1Ea4zNl2txtvr9+TgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

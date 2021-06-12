@@ -10,7 +10,6 @@ using System.Threading.Tasks;
 
 namespace BTG.PPTLS.API.Controllers
 {
-    //[EnableCors]
     [ApiController]
     [Route("[controller]")]
     public class GameController : ControllerBase

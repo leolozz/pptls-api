@@ -233,11 +233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
+      "projectUniqueName": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
       "projectName": "BTG.PPTLS.API",
-      "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
+      "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\obj\\",
+      "outputPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -254,11 +254,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj": {
-              "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj"
+            "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj": {
+              "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj"
             },
-            "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj": {
-              "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj"
+            "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj": {
+              "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj"
             }
           }
         }

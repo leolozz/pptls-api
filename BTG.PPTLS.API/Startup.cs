@@ -34,15 +34,6 @@ namespace BTG.PPTLS.API
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "BTG.PPTLS.API", Version = "v1" });
             });
             services.AddScoped<IGame, Game>();
-
-            //services.AddCors(options =>
-            //{
-            //    options.AddPolicy("CorsPolicy",
-            //        builder => builder.AllowAnyOrigin()
-            //        .AllowAnyMethod()
-            //        .AllowAnyHeader()
-            //        .AllowCredentials());
-            //});
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

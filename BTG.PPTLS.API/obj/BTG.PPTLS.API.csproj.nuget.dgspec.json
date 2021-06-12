@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj": {}
+    "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj": {
+    "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
+        "projectUniqueName": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
         "projectName": "BTG.PPTLS.API",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
+        "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\obj\\",
+        "outputPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj"
+              "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj": {
+                "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj"
               },
-              "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj"
+              "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj": {
+                "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj": {
+    "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj",
         "projectName": "BTG.PPTLS.BLL",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj",
+        "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.BLL\\BTG.PPTLS.BLL.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.BLL\\obj\\",
+        "outputPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj": {
-                "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj"
+              "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj": {
+                "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj": {
+    "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj",
         "projectName": "BTG.PPTLS.Domain",
-        "projectPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj",
+        "projectPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\BTG.PPTLS.Domain.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.Domain\\obj\\",
+        "outputPath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bcGqdkjEgjzUTaCfLgtbhJsYEph7j+c4BsVYQJDmy13oIBfCITJTGZ3xiZJIZblQ2kRrEbuwFD0DvJ1d1wQTmQ==",
+  "dgSpecHash": "JMQfnD0Bs1c1sDZfs1a2czYhC+dKt2xyJcx2QZDW7pXDKSlZ3/rUmtxJmzHe5T8W18PdwC/j28aqGl/7yqnYWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leand\\source\\repos\\BTG.PPTLS.API\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
+  "projectFilePath": "C:\\Users\\leand\\Documents\\[DEV]Projetos\\git-repos\\pptls-api\\BTG.PPTLS.API\\BTG.PPTLS.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
