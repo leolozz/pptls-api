@@ -49,16 +49,6 @@ namespace BTG.PPTLS.BLL
 
 
             return ResultPlayer;
-
-            //return GetMove(playerOne.MoveId).ItsADraw(playerTwo.MoveId)
-            //        ? new Player() { Id = 0, MoveId = playerOne.MoveId}
-            //        : (GetMove(playerOne.MoveId).DoIWin(playerTwo.MoveId)
-            //            ? playerOne
-            //            : playerTwo);
-
-            //return GetMove(playerOne.MoveId).DoIWin(playerTwo.MoveId)
-            //    ? playerOne 
-            //    : playerTwo ; 
         }
 
         private MoveBase GetMove(GameMoves moveId)
