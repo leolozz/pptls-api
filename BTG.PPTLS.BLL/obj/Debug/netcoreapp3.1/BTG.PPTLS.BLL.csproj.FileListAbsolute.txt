@@ -1,0 +1,12 @@
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\bin\Debug\netcoreapp3.1\BTG.PPTLS.BLL.deps.json
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\bin\Debug\netcoreapp3.1\BTG.PPTLS.BLL.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\bin\Debug\netcoreapp3.1\BTG.PPTLS.BLL.pdb
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\bin\Debug\netcoreapp3.1\BTG.PPTLS.Domain.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\bin\Debug\netcoreapp3.1\BTG.PPTLS.Domain.pdb
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\obj\Debug\netcoreapp3.1\BTG.PPTLS.BLL.csprojAssemblyReference.cache
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\obj\Debug\netcoreapp3.1\BTG.PPTLS.BLL.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\obj\Debug\netcoreapp3.1\BTG.PPTLS.BLL.AssemblyInfo.cs
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\obj\Debug\netcoreapp3.1\BTG.PPTLS.BLL.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\obj\Debug\netcoreapp3.1\BTG.PPTLS.BLL.csproj.CopyComplete
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\obj\Debug\netcoreapp3.1\BTG.PPTLS.BLL.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.BLL\obj\Debug\netcoreapp3.1\BTG.PPTLS.BLL.pdb

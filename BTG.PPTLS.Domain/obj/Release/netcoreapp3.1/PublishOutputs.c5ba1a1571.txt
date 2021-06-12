@@ -1,0 +1,3 @@
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\bin\Release\netcoreapp3.1\publish\BTG.PPTLS.Domain.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\bin\Release\netcoreapp3.1\publish\BTG.PPTLS.Domain.deps.json
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\bin\Release\netcoreapp3.1\publish\BTG.PPTLS.Domain.pdb

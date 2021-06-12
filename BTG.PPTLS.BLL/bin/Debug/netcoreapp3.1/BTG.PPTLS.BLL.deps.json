@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BTG.PPTLS.BLL/1.0.0": {
+        "dependencies": {
+          "BTG.PPTLS.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BTG.PPTLS.BLL.dll": {}
+        }
+      },
+      "BTG.PPTLS.Domain/1.0.0": {
+        "runtime": {
+          "BTG.PPTLS.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTG.PPTLS.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BTG.PPTLS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

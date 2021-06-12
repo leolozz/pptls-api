@@ -1,0 +1,9 @@
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\bin\Debug\netcoreapp3.1\BTG.PPTLS.Domain.deps.json
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\bin\Debug\netcoreapp3.1\BTG.PPTLS.Domain.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\bin\Debug\netcoreapp3.1\BTG.PPTLS.Domain.pdb
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\obj\Debug\netcoreapp3.1\BTG.PPTLS.Domain.csprojAssemblyReference.cache
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\obj\Debug\netcoreapp3.1\BTG.PPTLS.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\obj\Debug\netcoreapp3.1\BTG.PPTLS.Domain.AssemblyInfo.cs
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\obj\Debug\netcoreapp3.1\BTG.PPTLS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\obj\Debug\netcoreapp3.1\BTG.PPTLS.Domain.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.Domain\obj\Debug\netcoreapp3.1\BTG.PPTLS.Domain.pdb

@@ -1,0 +1,15 @@
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.API.exe
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\appsettings.json
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.API.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.API.deps.json
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.API.runtimeconfig.json
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.API.pdb
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.BLL.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.Domain.dll
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.Domain.pdb
+C:\Users\leand\source\repos\BTG.PPTLS.API\BTG.PPTLS.API\bin\Release\net5.0\publish\BTG.PPTLS.BLL.pdb
